@@ -131,7 +131,6 @@ python-multipart==0.0.9
 pytweening==1.2.0
 pytz==2024.1
 pyusb==1.2.1
-pywin32==306
 pywintunx-pmd3==1.0.2
 PyYAML==6.0.1
 qh3==0.15.1
